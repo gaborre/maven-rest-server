@@ -1,0 +1,4 @@
+com/test/app/ApplicationConfig.class
+com/test/utils/Response.class
+com/test/app/UserResource.class
+com/test/entity/User.class
